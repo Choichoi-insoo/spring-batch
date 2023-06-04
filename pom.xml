@@ -50,7 +50,13 @@
 	        <version>1.18.26</version>
 	        <scope>provided</scope>
     	</dependency>
+    	<!-- Kafka 추가 23.06.04 -->
+    	<dependency>
+			<groupId>org.springframework.kafka</groupId>
+			<artifactId>spring-kafka</artifactId>
+		</dependency>
 	</dependencies>
+	
 
 	<build>
 		<plugins>
