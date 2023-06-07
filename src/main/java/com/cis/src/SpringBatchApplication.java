@@ -11,7 +11,7 @@ public class SpringBatchApplication {
 	private static final Logger LOGGER = LoggerFactory.getLogger(SpringBatchApplication.class); 
 
 	public static void main(String[] args) {
-		System.err.println("테스트에서 메인 으로 가능해?");
+		System.err.println("테스트에서 메인 으로 가능해?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		SpringApplication.run(SpringBatchApplication.class, args);
 	}
 
